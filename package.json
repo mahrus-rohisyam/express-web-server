@@ -1,5 +1,5 @@
 {
-  "name": "07tut",
+  "name": "express-web-server",
   "version": "1.0.0",
   "description": "Express tutorial",
   "main": "server.js",
@@ -8,14 +8,25 @@
     "dev": "nodemon server"
   },
   "author": "Dave Gray",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
-    "date-fns": "^2.23.0",
-    "express": "^4.17.1",
-    "uuid": "^8.3.2"
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahrus-rohisyam/express-web-server.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Web-server"
+  ],
+  "bugs": {
+    "url": "https://github.com/mahrus-rohisyam/express-web-server/issues"
+  },
+  "homepage": "https://github.com/mahrus-rohisyam/express-web-server#readme"
 }
